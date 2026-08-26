@@ -88,9 +88,9 @@ then ship things that are unbreakable AND beautiful.
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-roba/dev-roba/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-roba/dev-roba/output/snake-light.svg" />
-  <img src="https://raw.githubusercontent.com/dev-roba/dev-roba/output/snake-dark.svg" alt="contribution snake" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/dev-roba/dev-roba@output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/dev-roba/dev-roba@output/snake-light.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/dev-roba/dev-roba@output/snake-dark.svg" alt="contribution snake" width="100%"/>
 </picture>
 </div>
 
