@@ -16,7 +16,17 @@
 ## `▶ now_playing.mkv`
 
 <div align="center">
+
+<table><tr><td width="50%">
+
 <img src="assets/terminal.svg" width="100%" alt="terminal"/>
+
+</td><td width="50%">
+
+<img src="assets/portrait-ascii.svg" width="100%" alt="ascii portrait scan"/>
+
+</td></tr></table>
+
 </div>
 
 ```console
