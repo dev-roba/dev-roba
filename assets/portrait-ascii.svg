@@ -1,61 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="620" height="560" viewBox="0 0 620 560" xmlns="http://www.w3.org/2000/svg">
-<style>
-.mono{font-family:ui-monospace,'JetBrains Mono',Menlo,Consolas,monospace;}
+<svg width="620" height="403.2" viewBox="0 0 620 403.2" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+.mono{font-family:ui-monospace,"JetBrains Mono",Menlo,Consolas,monospace;}
 .cursor{animation:blink 1.05s steps(1) infinite;}
-.scan{animation:scanmove 5s linear infinite;}
+.scan{animation:scanmove 4s linear infinite;}
 @keyframes blink{50%{opacity:0;}}
-@keyframes scanmove{0%{transform:translateY(0);}100%{transform:translateY(430px);}}
-</style>
-<rect width="620" height="560" rx="12" fill="#04070a"/>
-<rect x="1" y="1" width="618" height="558" rx="12" fill="none" stroke="#00ff88" stroke-opacity=".22"/>
+@keyframes scanmove{0%{transform:translateY(0);}100%{transform:translateY(281.2px);}}
+</style></defs>
+<rect width="620" height="403.2" rx="12" fill="#04070a"/>
+<rect x="1" y="1" width="618" height="401.2" rx="12" fill="none" stroke="#00ff88" stroke-opacity=".25"/>
 <text class="mono" x="24" y="34" font-size="14" font-weight="700" fill="#00ff88">:: SUBJECT_FILE.RAW</text>
 <text class="mono" x="24" y="52" font-size="11" fill="#5c6d66">ID: RW-1997 // CLEARANCE: OMEGA // FEED: LIVE</text>
 <text class="mono" x="470" y="34" font-size="12" fill="#ff2d78">o SCANNING</text>
-<g class="mono" font-size="10.5" xml:space="preserve">
-<text x="40" y="84.0"><tspan fill="#04070a">                                                                              </tspan></text>
-<text x="40" y="94.5"><tspan fill="#04070a">                                                                              </tspan></text>
-<text x="40" y="105.0"><tspan fill="#04070a">                                  </tspan><tspan fill="#0f6b40">++-=-=</tspan><tspan fill="#00c46a">*%</tspan><tspan fill="#0f6b40">=-</tspan><tspan fill="#0d3b26">:.</tspan><tspan fill="#04070a">                                </tspan></text>
-<text x="40" y="115.5"><tspan fill="#04070a">                             </tspan><tspan fill="#0d3b26">:</tspan><tspan fill="#00c46a">+</tspan><tspan fill="#0f6b40">+</tspan><tspan fill="#00c46a">*</tspan><tspan fill="#8dffc8">@@@@@@@@@@@@@#</tspan><tspan fill="#00c46a">%</tspan><tspan fill="#0f6b40">-</tspan><tspan fill="#04070a">                             </tspan></text>
-<text x="40" y="126.0"><tspan fill="#04070a">                         </tspan><tspan fill="#0d3b26">.</tspan><tspan fill="#0f6b40">-</tspan><tspan fill="#00c46a">%</tspan><tspan fill="#8dffc8">#@@@@@@@@@@@@@@@@@@@@#</tspan><tspan fill="#00c46a">%</tspan><tspan fill="#0f6b40">=</tspan><tspan fill="#04070a">                          </tspan></text>
-<text x="40" y="136.5"><tspan fill="#04070a">                       </tspan><tspan fill="#0d3b26">.</tspan><tspan fill="#00c46a">+</tspan><tspan fill="#8dffc8">#@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan><tspan fill="#0f6b40">+=</tspan><tspan fill="#0d3b26">.</tspan><tspan fill="#04070a">                      </tspan></text>
-<text x="40" y="147.0"><tspan fill="#04070a">                      </tspan><tspan fill="#00c46a">*</tspan><tspan fill="#8dffc8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan><tspan fill="#00c46a">%</tspan><tspan fill="#0f6b40">=</tspan><tspan fill="#04070a">                     </tspan></text>
-<text x="40" y="157.5"><tspan fill="#04070a">                   </tspan><tspan fill="#0f6b40">=</tspan><tspan fill="#00c46a">*</tspan><tspan fill="#8dffc8">#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#</tspan><tspan fill="#0f6b40">-</tspan><tspan fill="#04070a">                   </tspan></text>
-<text x="40" y="168.0"><tspan fill="#04070a">                 </tspan><tspan fill="#0d3b26">:</tspan><tspan fill="#00c46a">*</tspan><tspan fill="#8dffc8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan><tspan fill="#00c46a">%</tspan><tspan fill="#0f6b40">-</tspan><tspan fill="#04070a">                 </tspan></text>
-<text x="40" y="178.5"><tspan fill="#04070a">               </tspan><tspan fill="#0f6b40">-</tspan><tspan fill="#00c46a">%</tspan><tspan fill="#8dffc8">@@@@@@@@@@@@@@##</tspan><tspan fill="#00c46a">%%%%%%%%%%</tspan><tspan fill="#8dffc8">###@@@@@@@@@@@@@@@</tspan><tspan fill="#00c46a">*</tspan><tspan fill="#0d3b26">.</tspan><tspan fill="#04070a">               </tspan></text>
-<text x="40" y="189.0"><tspan fill="#04070a">              </tspan><tspan fill="#00c46a">*</tspan><tspan fill="#8dffc8">@@@@@@@@@@@#</tspan><tspan fill="#00c46a">%%***++</tspan><tspan fill="#0f6b40">+++++++++</tspan><tspan fill="#00c46a">+++**%%</tspan><tspan fill="#8dffc8">#@@@@@@@@@@@</tspan><tspan fill="#00c46a">%</tspan><tspan fill="#0d3b26">:</tspan><tspan fill="#04070a">              </tspan></text>
-<text x="40" y="199.5"><tspan fill="#04070a">             </tspan><tspan fill="#0f6b40">=</tspan><tspan fill="#8dffc8">@@@@@@@@@#</tspan><tspan fill="#00c46a">%****++</tspan><tspan fill="#0f6b40">+++++=======+++</tspan><tspan fill="#00c46a">+++***%</tspan><tspan fill="#8dffc8">#@@@@@@@@@#</tspan><tspan fill="#04070a">              </tspan></text>
-<text x="40" y="210.0"><tspan fill="#04070a">            </tspan><tspan fill="#00c46a">*</tspan><tspan fill="#8dffc8">@@@@@@@@@</tspan><tspan fill="#00c46a">%******+</tspan><tspan fill="#0f6b40">++==============++</tspan><tspan fill="#00c46a">++*****</tspan><tspan fill="#8dffc8">#@@@@@@@@</tspan><tspan fill="#00c46a">%</tspan><tspan fill="#0f6b40">-</tspan><tspan fill="#04070a">            </tspan></text>
-<text x="40" y="220.5"><tspan fill="#04070a">           </tspan><tspan fill="#0f6b40">-</tspan><tspan fill="#8dffc8">@@@@@@@@#</tspan><tspan fill="#00c46a">%*******+</tspan><tspan fill="#0f6b40">++===============+</tspan><tspan fill="#00c46a">++******%</tspan><tspan fill="#8dffc8">@@@@@@@@@</tspan><tspan fill="#00c46a">*</tspan><tspan fill="#0d3b26">.</tspan><tspan fill="#04070a">          </tspan></text>
-<text x="40" y="231.0"><tspan fill="#04070a">          </tspan><tspan fill="#0d3b26">:</tspan><tspan fill="#00c46a">%</tspan><tspan fill="#8dffc8">@@@@@@@@</tspan><tspan fill="#00c46a">%%******+</tspan><tspan fill="#0f6b40">++===============++</tspan><tspan fill="#00c46a">++******%</tspan><tspan fill="#8dffc8">#@@@@@@@@@</tspan><tspan fill="#0f6b40">+</tspan><tspan fill="#04070a">          </tspan></text>
-<text x="40" y="241.5"><tspan fill="#04070a">          </tspan><tspan fill="#00c46a">%</tspan><tspan fill="#8dffc8">@@@@@@@@#</tspan><tspan fill="#00c46a">%%%****++</tspan><tspan fill="#0f6b40">+=======----======+</tspan><tspan fill="#00c46a">++++****%</tspan><tspan fill="#8dffc8">#@@@@@@@@@</tspan><tspan fill="#00c46a">%</tspan><tspan fill="#04070a">          </tspan></text>
-<text x="40" y="252.0"><tspan fill="#04070a">          </tspan><tspan fill="#8dffc8">#@@@@@@@#</tspan><tspan fill="#00c46a">%%%%****++</tspan><tspan fill="#0f6b40">+===-----------===+</tspan><tspan fill="#00c46a">+++*****%%</tspan><tspan fill="#8dffc8">#@@@@@@@@@</tspan><tspan fill="#0d3b26">:</tspan><tspan fill="#04070a">         </tspan></text>
-<text x="40" y="262.5"><tspan fill="#04070a">         </tspan><tspan fill="#0d3b26">.</tspan><tspan fill="#8dffc8">@@@@@@@#</tspan><tspan fill="#00c46a">%%%***+++</tspan><tspan fill="#0f6b40">++======-----========++++</tspan><tspan fill="#00c46a">+***%%%</tspan><tspan fill="#8dffc8">##@@@@@@#</tspan><tspan fill="#04070a">          </tspan></text>
-<text x="40" y="273.0"><tspan fill="#04070a">         </tspan><tspan fill="#00c46a">*</tspan><tspan fill="#8dffc8">@@@@@@@</tspan><tspan fill="#00c46a">%%%%%%%%%%%%**++</tspan><tspan fill="#0f6b40">++====++</tspan><tspan fill="#00c46a">++++**%%</tspan><tspan fill="#8dffc8">######</tspan><tspan fill="#00c46a">%*%%%</tspan><tspan fill="#8dffc8">#@@@@@@@</tspan><tspan fill="#0d3b26">:</tspan><tspan fill="#04070a">         </tspan></text>
-<text x="40" y="283.5"><tspan fill="#04070a">         </tspan><tspan fill="#0f6b40">-</tspan><tspan fill="#8dffc8">@@@@@@#</tspan><tspan fill="#00c46a">%%%</tspan><tspan fill="#8dffc8">###@@@@@@@@##</tspan><tspan fill="#00c46a">%%**+***%%</tspan><tspan fill="#8dffc8">#@@@@@@@##</tspan><tspan fill="#00c46a">%%</tspan><tspan fill="#8dffc8">#</tspan><tspan fill="#00c46a">%%%%%</tspan><tspan fill="#8dffc8">@@@@@@@</tspan><tspan fill="#0f6b40">-</tspan><tspan fill="#04070a">         </tspan></text>
-<text x="40" y="294.0"><tspan fill="#04070a">         </tspan><tspan fill="#0d3b26">:</tspan><tspan fill="#8dffc8">#@@@@@#</tspan><tspan fill="#00c46a">*%%%%%%**%%</tspan><tspan fill="#8dffc8">###@@#</tspan><tspan fill="#00c46a">%*+</tspan><tspan fill="#0f6b40">++</tspan><tspan fill="#00c46a">+*%</tspan><tspan fill="#8dffc8">#@@###</tspan><tspan fill="#00c46a">%%*+***%%%%%%</tspan><tspan fill="#8dffc8">@@@@@@#</tspan><tspan fill="#0d3b26">.</tspan><tspan fill="#04070a">         </tspan></text>
-<text x="40" y="304.5"><tspan fill="#04070a">          </tspan><tspan fill="#0d3b26">:</tspan><tspan fill="#8dffc8">@@@@@#</tspan><tspan fill="#00c46a">*%%%</tspan><tspan fill="#8dffc8">####</tspan><tspan fill="#00c46a">%%</tspan><tspan fill="#8dffc8">########</tspan><tspan fill="#00c46a">*</tspan><tspan fill="#0f6b40">+==</tspan><tspan fill="#00c46a">+%</tspan><tspan fill="#8dffc8">######</tspan><tspan fill="#00c46a">%</tspan><tspan fill="#8dffc8">##</tspan><tspan fill="#00c46a">%</tspan><tspan fill="#8dffc8">#####</tspan><tspan fill="#00c46a">%%%*%</tspan><tspan fill="#8dffc8">@@@@@@</tspan><tspan fill="#0f6b40">=</tspan><tspan fill="#04070a">          </tspan></text>
-<text x="40" y="315.0"><tspan fill="#04070a">           </tspan><tspan fill="#0f6b40">=</tspan><tspan fill="#8dffc8">@@@@</tspan><tspan fill="#00c46a">%*%</tspan><tspan fill="#8dffc8">#@@@#</tspan><tspan fill="#00c46a">*</tspan><tspan fill="#8dffc8">@@#</tspan><tspan fill="#0f6b40">=+</tspan><tspan fill="#00c46a">%%%%%*</tspan><tspan fill="#0f6b40">+==+</tspan><tspan fill="#00c46a">*%</tspan><tspan fill="#8dffc8">#</tspan><tspan fill="#00c46a">%%%*</tspan><tspan fill="#0f6b40">=</tspan><tspan fill="#00c46a">+</tspan><tspan fill="#8dffc8">@@#</tspan><tspan fill="#00c46a">*</tspan><tspan fill="#8dffc8">#@@#</tspan><tspan fill="#00c46a">%%%%</tspan><tspan fill="#8dffc8">@@@@@</tspan><tspan fill="#00c46a">%</tspan><tspan fill="#0d3b26">.</tspan><tspan fill="#04070a">          </tspan></text>
-<text x="40" y="325.5"><tspan fill="#04070a">            </tspan><tspan fill="#0f6b40">=</tspan><tspan fill="#8dffc8">@@@</tspan><tspan fill="#00c46a">*%%%%%%%****++**%%*+</tspan><tspan fill="#0f6b40">==-=</tspan><tspan fill="#00c46a">+**%%*+++****%%%%%%%*</tspan><tspan fill="#8dffc8">#@@@</tspan><tspan fill="#00c46a">%</tspan><tspan fill="#04070a">            </tspan></text>
-<text x="40" y="336.0"><tspan fill="#04070a">            </tspan><tspan fill="#0d3b26">:</tspan><tspan fill="#8dffc8">@##</tspan><tspan fill="#00c46a">*%*****++</tspan><tspan fill="#0f6b40">+++++</tspan><tspan fill="#00c46a">+****+</tspan><tspan fill="#0f6b40">====</tspan><tspan fill="#00c46a">+*****+</tspan><tspan fill="#0f6b40">++++++</tspan><tspan fill="#00c46a">+*****%*%</tspan><tspan fill="#8dffc8">@##@</tspan><tspan fill="#0f6b40">-</tspan><tspan fill="#04070a">           </tspan></text>
-<text x="40" y="346.5"><tspan fill="#04070a">            </tspan><tspan fill="#0d3b26">:</tspan><tspan fill="#8dffc8">@#</tspan><tspan fill="#00c46a">%*****+</tspan><tspan fill="#0f6b40">++===+++</tspan><tspan fill="#00c46a">+***+</tspan><tspan fill="#0f6b40">=----=</tspan><tspan fill="#00c46a">+***+</tspan><tspan fill="#0f6b40">+++====++</tspan><tspan fill="#00c46a">+***%*%%%%</tspan><tspan fill="#8dffc8">@</tspan><tspan fill="#0f6b40">-</tspan><tspan fill="#04070a">           </tspan></text>
-<text x="40" y="357.0"><tspan fill="#04070a">             </tspan><tspan fill="#00c46a">%</tspan><tspan fill="#8dffc8">#</tspan><tspan fill="#00c46a">%*%%%**+</tspan><tspan fill="#0f6b40">+++====</tspan><tspan fill="#00c46a">++</tspan><tspan fill="#0f6b40">+</tspan><tspan fill="#00c46a">++</tspan><tspan fill="#0f6b40">=----====</tspan><tspan fill="#00c46a">++</tspan><tspan fill="#0f6b40">+=====++</tspan><tspan fill="#00c46a">+***%%*</tspan><tspan fill="#8dffc8">#</tspan><tspan fill="#00c46a">%*%%</tspan><tspan fill="#04070a">            </tspan></text>
-<text x="40" y="367.5"><tspan fill="#04070a">             </tspan><tspan fill="#0f6b40">-</tspan><tspan fill="#8dffc8">#</tspan><tspan fill="#00c46a">*%*%%%**++</tspan><tspan fill="#0f6b40">++==+</tspan><tspan fill="#00c46a">*%</tspan><tspan fill="#8dffc8">###</tspan><tspan fill="#00c46a">%***%%</tspan><tspan fill="#8dffc8">##</tspan><tspan fill="#00c46a">%**</tspan><tspan fill="#0f6b40">====++</tspan><tspan fill="#00c46a">++***%%%%**+</tspan><tspan fill="#8dffc8">#</tspan><tspan fill="#0f6b40">=</tspan><tspan fill="#04070a">            </tspan></text>
-<text x="40" y="378.0"><tspan fill="#04070a">              </tspan><tspan fill="#00c46a">%%%%%%%%**+</tspan><tspan fill="#0f6b40">++==+</tspan><tspan fill="#00c46a">+</tspan><tspan fill="#8dffc8">#@#</tspan><tspan fill="#00c46a">%%%</tspan><tspan fill="#8dffc8">#</tspan><tspan fill="#00c46a">%%%%</tspan><tspan fill="#8dffc8">#@#</tspan><tspan fill="#00c46a">*</tspan><tspan fill="#0f6b40">+===+</tspan><tspan fill="#00c46a">+***%%%%%%**%%</tspan><tspan fill="#04070a">             </tspan></text>
-<text x="40" y="388.5"><tspan fill="#04070a">              </tspan><tspan fill="#0d3b26">:</tspan><tspan fill="#00c46a">%%%%%%%***++</tspan><tspan fill="#0f6b40">++</tspan><tspan fill="#00c46a">++*****+++++***++</tspan><tspan fill="#0f6b40">++++</tspan><tspan fill="#00c46a">+***%%%%%%%*%%</tspan><tspan fill="#0d3b26">:</tspan><tspan fill="#04070a">             </tspan></text>
-<text x="40" y="399.0"><tspan fill="#04070a">               </tspan><tspan fill="#0d3b26">:</tspan><tspan fill="#00c46a">%%%%%%%%***+++****++++++++++++++++***%%%%%%***</tspan><tspan fill="#0f6b40">=</tspan><tspan fill="#04070a">               </tspan></text>
-<text x="40" y="409.5"><tspan fill="#04070a">                 </tspan><tspan fill="#0d3b26">.:</tspan><tspan fill="#00c46a">%%%%%%*****%%%****+**++*%%*******%%%%%</tspan><tspan fill="#8dffc8">#</tspan><tspan fill="#00c46a">+</tspan><tspan fill="#04070a">                   </tspan></text>
-<text x="40" y="420.0"><tspan fill="#04070a">                   </tspan><tspan fill="#0f6b40">-</tspan><tspan fill="#8dffc8">#</tspan><tspan fill="#00c46a">%%%%%%%%</tspan><tspan fill="#8dffc8">################@#</tspan><tspan fill="#00c46a">%%%%%%%%%%%</tspan><tspan fill="#04070a">                    </tspan></text>
-<text x="40" y="430.5"><tspan fill="#04070a">                    </tspan><tspan fill="#0f6b40">+</tspan><tspan fill="#8dffc8">#</tspan><tspan fill="#00c46a">%%%%%%%%*+</tspan><tspan fill="#0f6b40">=======++++</tspan><tspan fill="#00c46a">+*%%</tspan><tspan fill="#8dffc8">#</tspan><tspan fill="#00c46a">%%%%%%%%%</tspan><tspan fill="#0d3b26">.</tspan><tspan fill="#04070a">                    </tspan></text>
-<text x="40" y="441.0"><tspan fill="#04070a">                     </tspan><tspan fill="#00c46a">*%%%%%%%</tspan><tspan fill="#8dffc8">##</tspan><tspan fill="#00c46a">%*</tspan><tspan fill="#0f6b40">+=--==-=+</tspan><tspan fill="#00c46a">*%%</tspan><tspan fill="#8dffc8">#####</tspan><tspan fill="#00c46a">%%</tspan><tspan fill="#8dffc8">##</tspan><tspan fill="#00c46a">%%</tspan><tspan fill="#0f6b40">+</tspan><tspan fill="#04070a">                     </tspan></text>
-<text x="40" y="451.5"><tspan fill="#04070a">                     </tspan><tspan fill="#0f6b40">=</tspan><tspan fill="#8dffc8">#</tspan><tspan fill="#00c46a">%%%</tspan><tspan fill="#8dffc8">#####@@@#######@@@#########</tspan><tspan fill="#00c46a">%%</tspan><tspan fill="#8dffc8">#</tspan><tspan fill="#0f6b40">=</tspan><tspan fill="#04070a">                     </tspan></text>
-<text x="40" y="462.0"><tspan fill="#04070a">                     </tspan><tspan fill="#0f6b40">-</tspan><tspan fill="#8dffc8">@#########</tspan><tspan fill="#00c46a">%%%%%%%%%%%</tspan><tspan fill="#8dffc8">#############</tspan><tspan fill="#0d3b26">:</tspan><tspan fill="#04070a">                     </tspan></text>
-<text x="40" y="472.5"><tspan fill="#04070a">                     </tspan><tspan fill="#0f6b40">-</tspan><tspan fill="#8dffc8">#########</tspan><tspan fill="#00c46a">%%%********%%%%</tspan><tspan fill="#8dffc8">##########</tspan><tspan fill="#0d3b26">.</tspan><tspan fill="#04070a">                     </tspan></text>
-<text x="40" y="483.0"><tspan fill="#04070a">                     </tspan><tspan fill="#0f6b40">-</tspan><tspan fill="#8dffc8">##########################@@#####</tspan><tspan fill="#00c46a">%</tspan><tspan fill="#04070a">                      </tspan></text>
-<text x="40" y="493.5"><tspan fill="#04070a">                     </tspan><tspan fill="#0f6b40">-</tspan><tspan fill="#8dffc8">#######@@@@@@@@@@@@@@@@@@@@#######</tspan><tspan fill="#0d3b26">.</tspan><tspan fill="#04070a">                     </tspan></text>
-</g>
-<rect class="scan" x="24" y="70" width="572" height="3" fill="#00ff88" opacity=".12"/>
-<rect x="24" y="70" width="572" height="440" fill="none" stroke="#00ff88" stroke-opacity=".12" stroke-dasharray="6 6"/>
-<text class="mono" x="24" y="538" font-size="11" fill="#7d8f88">MATCH: 99.7% - IDENTITY CONFIRMED <tspan class="cursor" fill="#00ff88">_</tspan></text>
-<text class="mono" x="500" y="538" font-size="11" fill="#22d3ee">RW://WAMBUGU</text>
+<rect x="20" y="72" width="580" height="281.2" rx="4" fill="none" stroke="#00ff88" stroke-opacity=".12" stroke-dasharray="6 6"/>
+<text class="mono" x="20" y="79.4" font-size="6.2" xml:space="preserve">
+<tspan x="20" y="79.4"></tspan>
+<tspan x="20" y="86.8"></tspan>
+<tspan x="20" y="94.2"></tspan>
+<tspan x="20" y="101.6"></tspan>
+<tspan x="20" y="109.0"><tspan fill="#00f300">.</tspan>
+<tspan x="20" y="116.4"><tspan fill="#00f500">.</tspan>
+<tspan x="20" y="123.80000000000001"><tspan fill="#00e700">,</tspan>
+<tspan x="20" y="131.2"><tspan fill="#00f300">.</tspan>
+<tspan x="20" y="138.60000000000002"><tspan fill="#00f000">.</tspan>
+<tspan x="20" y="146.0"><tspan fill="#00f400">.</tspan>
+<tspan x="20" y="153.4"><tspan fill="#00e800">,</tspan>
+<tspan x="20" y="160.8"><tspan fill="#00e500">,</tspan>
+<tspan x="20" y="168.2"><tspan fill="#008400">f</tspan>
+<tspan x="20" y="175.60000000000002"><tspan fill="#00bf00">;</tspan>
+<tspan x="20" y="183.0"><tspan fill="#006700">C</tspan>
+<tspan x="20" y="190.4"><tspan fill="#00ed00">.</tspan>
+<tspan x="20" y="197.8"><tspan fill="#00bb00">i</tspan>
+<tspan x="20" y="205.20000000000002"><tspan fill="#00d900">:</tspan>
+<tspan x="20" y="212.6"><tspan fill="#00f700">.</tspan>
+<tspan x="20" y="220.0"><tspan fill="#00f600">.</tspan>
+<tspan x="20" y="227.4"><tspan fill="#00dc00">,</tspan>
+<tspan x="20" y="234.8"><tspan fill="#00f000">.</tspan>
+<tspan x="20" y="242.20000000000002"><tspan fill="#008400">f</tspan>
+<tspan x="20" y="249.60000000000002"><tspan fill="#00ce00">:</tspan>
+<tspan x="20" y="257.0"><tspan fill="#008f00">f</tspan>
+<tspan x="20" y="264.4"><tspan fill="#00ea00">.</tspan>
+<tspan x="20" y="271.8"><tspan fill="#00ec00">.</tspan>
+<tspan x="20" y="279.20000000000005"><tspan fill="#00f300">.</tspan>
+<tspan x="20" y="286.6"><tspan fill="#00e000">,</tspan>
+<tspan x="20" y="294.0"><tspan fill="#008900">f</tspan>
+<tspan x="20" y="301.4"><tspan fill="#008e00">f</tspan>
+<tspan x="20" y="308.8"><tspan fill="#009300">t</tspan>
+<tspan x="20" y="316.20000000000005"><tspan fill="#008a00">f</tspan>
+<tspan x="20" y="323.6"><tspan fill="#00f500">.</tspan>
+<tspan x="20" y="331.0"><tspan fill="#00f300">.</tspan>
+<tspan x="20" y="338.40000000000003"><tspan fill="#00ed00">.</tspan>
+<tspan x="20" y="345.8"><tspan fill="#00f000">.</tspan>
+<tspan x="20" y="353.2"><tspan fill="#007e00">L</tspan>
+</text>
+<rect class="scan" x="20" y="72" width="580" height="2" fill="#00ff88" opacity=".18"/>
+<line x1="20" y1="72" x2="38" y2="72" stroke="#00ff88" stroke-width="2" stroke-opacity=".6"/>
+<line x1="20" y1="72" x2="20" y2="90" stroke="#00ff88" stroke-width="2" stroke-opacity=".6"/>
+<line x1="600" y1="72" x2="582" y2="72" stroke="#00ff88" stroke-width="2" stroke-opacity=".6"/>
+<line x1="600" y1="72" x2="600" y2="90" stroke="#00ff88" stroke-width="2" stroke-opacity=".6"/>
+<line x1="20" y1="353.2" x2="38" y2="353.2" stroke="#00ff88" stroke-width="2" stroke-opacity=".6"/>
+<line x1="20" y1="353.2" x2="20" y2="335.2" stroke="#00ff88" stroke-width="2" stroke-opacity=".6"/>
+<line x1="600" y1="353.2" x2="582" y2="353.2" stroke="#00ff88" stroke-width="2" stroke-opacity=".6"/>
+<line x1="600" y1="353.2" x2="600" y2="335.2" stroke="#00ff88" stroke-width="2" stroke-opacity=".6"/>
+<text class="mono" x="24" y="381.2" font-size="11" fill="#7d8f88">MATCH: 99.7% - IDENTITY CONFIRMED <tspan class="cursor" fill="#00ff88">_</tspan></text>
+<text class="mono" x="500" y="381.2" font-size="11" fill="#22d3ee">RW://WAMBUGU</text>
 </svg>
